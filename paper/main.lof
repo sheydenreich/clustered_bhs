@@ -1,0 +1,56 @@
+\select@language {english}
+\select@language {english}
+\contentsline {figure}{\numberline {1}{\ignorespaces Caustic pattern for a binary lens}}{4}
+\contentsline {figure}{\numberline {2}{\ignorespaces A two-mode density fluctuation}}{6}
+\contentsline {figure}{\numberline {3}{\ignorespaces Magnification Map convolved with a gaussian}}{7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Unconvolved Map}}}{7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Convolved Map (5px)}}}{7}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Convolved Map (10px)}}}{7}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Convolved Map (20px)}}}{7}
+\contentsline {figure}{\numberline {4}{\ignorespaces Histogram of a Map before and after convolution}}{8}
+\contentsline {figure}{\numberline {5}{\ignorespaces Magnification Map produced by clustered black holes.\relax }}{8}
+\contentsline {figure}{\numberline {6}{\ignorespaces Comparison of the Likelihoods for the fraction of mass in microlenses}}{10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\Delta m = -0.3$}}}{10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta m = -0.4$}}}{10}
+\contentsline {figure}{\numberline {7}{\ignorespaces Magnification histograms for different values of $\alpha $}}{11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Uniform Distribution}}}{11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Clustered Distribution}}}{11}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Uniform Distribution}}}{11}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Clustered Distribution}}}{11}
+\contentsline {figure}{\numberline {8}{\ignorespaces Correlated histograms for different values of $\alpha $}}{11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Uniform Distribution, Case 1}}}{11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Clustered Distribution, Case 1}}}{11}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Uniform Distribution, Case 2}}}{11}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Clustered Distribution, Case 2}}}{11}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Comparison of the autocorrelated histograms for different parameter choices.\relax }}{14}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Comparison of the Likelihoods for $N_{\rm BH}$}}{14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\Delta m = 0.25$}}}{14}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta m = 0.4$}}}{14}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Comparison of the Likelihoods for $\sigma $}}{14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\Delta m = 0.25$}}}{14}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta m = 0.4$}}}{14}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Example of a twodimensional likelihood distribution}}{15}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Two examples for magnification histograms}}{15}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Two examples for magnification histograms comparing the clustered and unclustered case}}{16}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Clustered Distribution}}}{16}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Uniform Distribution}}}{16}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Results of the bayesian analysis}}{16}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Uniform Distribution, Case 1}}}{16}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Clustered Distribution, Case 1}}}{16}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Uniform Distribution, Case 2}}}{16}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Clustered Distribution, Case 2}}}{16}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Magnification histograms for different values of $\alpha $}}{17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Uniform Distribution}}}{17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Clustered Distribution}}}{17}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Uniform Distribution}}}{17}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Clustered Distribution}}}{17}
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Correlated histograms for different values of $\alpha $}}{17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Uniform Distribution, Case 1}}}{17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Clustered Distribution, Case 1}}}{17}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Uniform Distribution, Case 2}}}{17}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Clustered Distribution, Case 2}}}{17}
+\contentsline {figure}{\numberline {A.10}{\ignorespaces Results of the bayesian analysis}}{18}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Uniform Distribution, Case 1}}}{18}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Clustered Distribution, Case 1}}}{18}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Uniform Distribution, Case 2}}}{18}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Clustered Distribution, Case 2}}}{18}
